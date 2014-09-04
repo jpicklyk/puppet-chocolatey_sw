@@ -27,7 +27,7 @@ Full configuration options:
 
 ```puppet
 class { 'chocolatey_sw':
-  command  => iex ...',                       # command to install Chocolatey
+  command  => 'iex ...',                      # command to install Chocolatey
   creates  => ['C:\ProgramData\chocolatey'],  # check for install directories
   provider => powershell,                     # command Exec provider
 }
