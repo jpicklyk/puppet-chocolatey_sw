@@ -9,7 +9,7 @@
   "issues_url": "https://github.com/CERIT-SC/puppet-chocolatey_sw/issues",
   "tags": [
     "chocolatey",
-	"windows"
+    "windows"
   ],
   "operatingsystem_support": [
     {
